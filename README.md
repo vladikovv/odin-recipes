@@ -1,1 +1,1 @@
-# odin-recipes
+This project will show some recipes and hopefully show that I've learned something
